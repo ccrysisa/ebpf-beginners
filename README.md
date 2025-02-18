@@ -27,7 +27,7 @@ This repo was originally created with the code samples to accompany my talk ["Th
 * For Cloud Native eBPF Day I've written some examples showing some of the ways eBPF programs can get involved with networking 
   * [Slides](https://speakerdeck.com/lizrice/beginners-guide-to-ebpf-programming-for-networking)
   * [Code](https://github.com/lizrice/ebpf-networking)
-  * YouTube link coming soon
+  * [YouTube](https://www.youtube.com/watch?v=0p987hCplbk)
  
 * eBPF Superpowers presentation at DockerCon 
   * [Slides](https://speakerdeck.com/lizrice/ebpf-superpowers)
